@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot-web-app",
+  "version": "1.0.0",
+  "description": "Discord Bot Web App",
+  "main": "mami.js",
+  "scripts": {
+    "start": "node mami.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
